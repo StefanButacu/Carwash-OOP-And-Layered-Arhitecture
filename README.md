@@ -15,8 +15,11 @@ Carwash app design using OOP principles and Qt framework
 ![Start app](https://github.com/StefanButacu/Carwash-OOP-And-Layered-Arhitecture/blob/master/Photos/photo1.JPG)
 * Warning
 ![Warning](https://github.com/StefanButacu/Carwash-OOP-And-Layered-Arhitecture/blob/master/Photos/photo2.JPG)
+![Start game](https://github.com/StefanButacu/Carwash-OOP-And-Layered-Arhitecture/blob/master/Photos/photo6.JPG)
+
 * Washlist
 ![Wash list](https://github.com/StefanButacu/Carwash-OOP-And-Layered-Arhitecture/blob/master/Photos/photo3.JPG)
 * Observer Pattern
 ![Observer](https://github.com/StefanButacu/Carwash-OOP-And-Layered-Arhitecture/blob/master/Photos/photo4.JPG)
-![Start game](https://github.com/StefanButacu/Carwash-OOP-And-Layered-Arhitecture/blob/master/Photos/photo6.JPG)
+* Wash menu
+![Observer](https://github.com/StefanButacu/Carwash-OOP-And-Layered-Arhitecture/blob/master/Photos/photo5.JPG)
